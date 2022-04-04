@@ -1,0 +1,25 @@
+html {
+    font-size: 22px
+ }
+ body{
+    background-color: #000;
+    color: whitesmoke;
+ }
+ a {
+     color: azure;
+ }
+
+ a:visited {
+     color: magenta;
+ }
+
+ a:hover, a:active{
+     color:#eee;
+ }
+
+ table, tr, th, td, caption{
+     border: 1px solid #eee;
+     font-family: 'Courier New', Courier, monospace;
+     border-collapse: collapse;
+     padding: 0.5rem;
+    }
