@@ -4,15 +4,15 @@
 
 Here are the sections covered:
 
-Getting Started
-Head Element
-Text Basics
-List Types
-Add Links
-Add Images
-Semantic Tags
-Create Tables
-Forms & Inputs
+- Getting Started
+- Head Element
+- Text Basics
+- List Types
+- Add Links
+- Add Images
+- Semantic Tags
+- Create Tables
+- Forms & Inputs
 
 ## Built With
 
